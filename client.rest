@@ -19,3 +19,13 @@ GET {{baseUrl}}/conceitos-manual
 
 # @name ConceitosAutomaticoControllerGetHome
 GET {{baseUrl}}/conceitos-automatico
+
+### ConceitosManualControllerGetHomeService
+
+# @name ConceitosManualControllerGetHomeService
+GET {{baseUrl}}/conceitos-manual/service
+
+### ConceitosAutomaticoControllerGetHomeService
+
+# @name ConceitosAutomaticoControllerGetHomeService
+GET {{baseUrl}}/conceitos-automatico/service
